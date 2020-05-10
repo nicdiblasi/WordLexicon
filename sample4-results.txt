@@ -1,0 +1,46 @@
+The pattern:
+	ma?
+	man 2
+	map 1
+	mat 1
+	may 1
+The pattern:
+	?o?
+	for 1
+	not 2
+	too 1
+	you 5
+	zoo 1
+The pattern:
+	mr*
+	mr 3
+	mrs 1
+The pattern:
+	i*
+	i 1
+	impatiently 1
+	in 3
+	invitation 1
+	is 5
+	it 5
+The pattern:
+	?ear*
+	dear 1
+	heard 1
+	hearing 1
+	wearing 1
+The pattern:
+	?ing
+The pattern:
+	ma*
+	made 1
+	man 2
+	map 1
+	mat 1
+	may 1
+The pattern:
+	a?e
+The pattern:
+	as?
+The pattern:
+	oo??
